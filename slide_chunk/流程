@@ -1,0 +1,12 @@
+
+
+
+新的分块策略：
+python语言
+首先执行../cceval/cceval-main/slide_chunk/python_chunk_savejsonl.py 生成程序分块后的结果。
+之后执行../cceval/cceval-main/retrivel/3_.py将生成的程序块转换为源论文的数据形式。
+最后执行../cceval/cceval-main/README.md的26-40行，执行推理，执行112-122进行结果评估。
+
+
+
+
